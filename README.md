@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 普通OI学生党   
 蒟蒻.jpg
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-163)](https://github.com/anuraghazra/github-readme-stats)
